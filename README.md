@@ -1,7 +1,7 @@
-# GGbeng Blog
-
-## 个人博客
-
-## 仅供参考
-
-## Vuexpress
+---
+home: true
+heroImage: '/ggbeng.png'
+heroImageStyle: { width: '100%', height: '100%', display: block }
+heroText: null
+isShowTitleInHome: false
+---
