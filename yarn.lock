@@ -1129,10 +1129,10 @@
   resolved "http://r.npm.sankuai.com/@vuepress-reco/vuepress-plugin-loading-page/download/@vuepress-reco/vuepress-plugin-loading-page-1.4.0.tgz#317202c9ef78825b3016c580a12791fc6e282511"
   integrity sha1-MXICye94glswFsWAoSeR/G4oJRE=
 
-"@vuepress-reco/vuepress-plugin-pagation@^1.4.6":
-  version "1.4.6"
-  resolved "http://r.npm.sankuai.com/@vuepress-reco/vuepress-plugin-pagation/download/@vuepress-reco/vuepress-plugin-pagation-1.4.6.tgz#011dc333dae10a6f2f133b0b20aa81923e71d6d1"
-  integrity sha1-AR3DM9rhCm8vEzsLIKqBkj5x1tE=
+"@vuepress-reco/vuepress-plugin-pagation@^1.4.7":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-pagation/-/vuepress-plugin-pagation-1.6.0.tgz#c632aae1638ff9c67fe58c39ab617132be9eeecb"
+  integrity sha512-QvmAqfbCnkvdLU0/yZWkFrL/PJgKhciB3FWgJu756FH66iqO/QKDPaZ1vlzI3RfYOIEwLEhPd1U9Rvt9ICaQtQ==
 
 "@vuepress/core@1.5.0":
   version "1.5.0"
@@ -3585,8 +3585,8 @@ feed@2.0.4:
 
 figgy-pudding@^3.5.1:
   version "3.5.2"
-  resolved "http://r.npm.sankuai.com/figgy-pudding/download/figgy-pudding-3.5.2.tgz#b4eee8148abb01dcf1d1ac34367d59e12fa61d6e"
-  integrity sha1-tO7oFIq7Adzx0aw0Nn1Z4S+mHW4=
+  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.2.tgz#b4eee8148abb01dcf1d1ac34367d59e12fa61d6e"
+  integrity sha512-0btnI/H8f2pavGMN8w40mlSKOfTK2SVJmBfBeVIj3kNw0swwgzyRq0d5TJVOwodFmtvpPeWPN/MCcfuWF0Ezbw==
 
 figures@^3.0.0:
   version "3.2.0"
@@ -7259,9 +7259,9 @@ sshpk@^1.7.0:
     tweetnacl "~0.14.0"
 
 ssri@^6.0.1:
-  version "6.0.1"
-  resolved "http://r.npm.sankuai.com/ssri/download/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
-  integrity sha1-KjxBso3UW2K2Nnbst0ABJlrp7dg=
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.2.tgz#157939134f20464e7301ddba3e90ffa8f7728ac5"
+  integrity sha512-cepbSq/neFK7xB6A50KHN0xHDotYzq58wWCa5LeWqnPrHG8GzfEjO/4O8kpmcGW+oaxkvhEJCWgbgNk4/ZV93Q==
   dependencies:
     figgy-pudding "^3.5.1"
 
@@ -8198,15 +8198,15 @@ vuepress-plugin-smooth-scroll@^0.0.3:
   dependencies:
     smoothscroll-polyfill "^0.4.3"
 
-vuepress-theme-reco@1.4.6:
-  version "1.4.6"
-  resolved "http://r.npm.sankuai.com/vuepress-theme-reco/download/vuepress-theme-reco-1.4.6.tgz#4753d670cf8ef01660369688725c5e71564518d3"
-  integrity sha1-R1PWcM+O8BZgNpaIclxecVZFGNM=
+vuepress-theme-reco@1.4.7:
+  version "1.4.7"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-reco/-/vuepress-theme-reco-1.4.7.tgz#573813591f7861f33d5501645ba844a3c58102e5"
+  integrity sha512-e/v0vSEHTled/AmTATtbydxqU9/XnS8hNzvJtoOoXtqndVjunPwl+dFoUzvk+TFxM8CXPt6Nx3DjM8Ji8vErGw==
   dependencies:
     "@vuepress-reco/vuepress-plugin-back-to-top" "^1.4.0"
     "@vuepress-reco/vuepress-plugin-comments" "^1.4.6"
     "@vuepress-reco/vuepress-plugin-loading-page" "^1.4.0"
-    "@vuepress-reco/vuepress-plugin-pagation" "^1.4.6"
+    "@vuepress-reco/vuepress-plugin-pagation" "^1.4.7"
     "@vuepress/plugin-blog" "1.9.2"
     "@vuepress/plugin-medium-zoom" "1.5.0"
     docsearch.js "2.6.3"
