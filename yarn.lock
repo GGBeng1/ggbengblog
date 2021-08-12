@@ -1129,10 +1129,10 @@
   resolved "http://r.npm.sankuai.com/@vuepress-reco/vuepress-plugin-loading-page/download/@vuepress-reco/vuepress-plugin-loading-page-1.4.0.tgz#317202c9ef78825b3016c580a12791fc6e282511"
   integrity sha1-MXICye94glswFsWAoSeR/G4oJRE=
 
-"@vuepress-reco/vuepress-plugin-pagation@^1.4.6":
-  version "1.4.6"
-  resolved "http://r.npm.sankuai.com/@vuepress-reco/vuepress-plugin-pagation/download/@vuepress-reco/vuepress-plugin-pagation-1.4.6.tgz#011dc333dae10a6f2f133b0b20aa81923e71d6d1"
-  integrity sha1-AR3DM9rhCm8vEzsLIKqBkj5x1tE=
+"@vuepress-reco/vuepress-plugin-pagation@^1.4.7":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-pagation/-/vuepress-plugin-pagation-1.6.0.tgz#c632aae1638ff9c67fe58c39ab617132be9eeecb"
+  integrity sha512-QvmAqfbCnkvdLU0/yZWkFrL/PJgKhciB3FWgJu756FH66iqO/QKDPaZ1vlzI3RfYOIEwLEhPd1U9Rvt9ICaQtQ==
 
 "@vuepress/core@1.5.0":
   version "1.5.0"
@@ -5916,9 +5916,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "http://r.npm.sankuai.com/path-parse/download/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha1-1i27VnlAXXLEc37FhgDp3c8G0kw=
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
@@ -8198,15 +8198,15 @@ vuepress-plugin-smooth-scroll@^0.0.3:
   dependencies:
     smoothscroll-polyfill "^0.4.3"
 
-vuepress-theme-reco@1.4.6:
-  version "1.4.6"
-  resolved "http://r.npm.sankuai.com/vuepress-theme-reco/download/vuepress-theme-reco-1.4.6.tgz#4753d670cf8ef01660369688725c5e71564518d3"
-  integrity sha1-R1PWcM+O8BZgNpaIclxecVZFGNM=
+vuepress-theme-reco@1.4.7:
+  version "1.4.7"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-reco/-/vuepress-theme-reco-1.4.7.tgz#573813591f7861f33d5501645ba844a3c58102e5"
+  integrity sha512-e/v0vSEHTled/AmTATtbydxqU9/XnS8hNzvJtoOoXtqndVjunPwl+dFoUzvk+TFxM8CXPt6Nx3DjM8Ji8vErGw==
   dependencies:
     "@vuepress-reco/vuepress-plugin-back-to-top" "^1.4.0"
     "@vuepress-reco/vuepress-plugin-comments" "^1.4.6"
     "@vuepress-reco/vuepress-plugin-loading-page" "^1.4.0"
-    "@vuepress-reco/vuepress-plugin-pagation" "^1.4.6"
+    "@vuepress-reco/vuepress-plugin-pagation" "^1.4.7"
     "@vuepress/plugin-blog" "1.9.2"
     "@vuepress/plugin-medium-zoom" "1.5.0"
     docsearch.js "2.6.3"
