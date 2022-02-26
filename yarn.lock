@@ -1129,10 +1129,10 @@
   resolved "http://r.npm.sankuai.com/@vuepress-reco/vuepress-plugin-loading-page/download/@vuepress-reco/vuepress-plugin-loading-page-1.4.0.tgz#317202c9ef78825b3016c580a12791fc6e282511"
   integrity sha1-MXICye94glswFsWAoSeR/G4oJRE=
 
-"@vuepress-reco/vuepress-plugin-pagation@^1.4.6":
-  version "1.4.6"
-  resolved "http://r.npm.sankuai.com/@vuepress-reco/vuepress-plugin-pagation/download/@vuepress-reco/vuepress-plugin-pagation-1.4.6.tgz#011dc333dae10a6f2f133b0b20aa81923e71d6d1"
-  integrity sha1-AR3DM9rhCm8vEzsLIKqBkj5x1tE=
+"@vuepress-reco/vuepress-plugin-pagation@^1.4.7":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@vuepress-reco/vuepress-plugin-pagation/-/vuepress-plugin-pagation-1.6.0.tgz#c632aae1638ff9c67fe58c39ab617132be9eeecb"
+  integrity sha512-QvmAqfbCnkvdLU0/yZWkFrL/PJgKhciB3FWgJu756FH66iqO/QKDPaZ1vlzI3RfYOIEwLEhPd1U9Rvt9ICaQtQ==
 
 "@vuepress/core@1.5.0":
   version "1.5.0"
@@ -2306,15 +2306,6 @@ cli-boxes@^2.2.0:
   resolved "http://r.npm.sankuai.com/cli-boxes/download/cli-boxes-2.2.0.tgz#538ecae8f9c6ca508e3c3c95b453fe93cb4c168d"
   integrity sha1-U47K6PnGylCOPDyVtFP+k8tMFo0=
 
-clipboard@^2.0.0:
-  version "2.0.6"
-  resolved "http://r.npm.sankuai.com/clipboard/download/clipboard-2.0.6.tgz#52921296eec0fdf77ead1749421b21c968647376"
-  integrity sha1-UpISlu7A/fd+rRdJQhshyWhkc3Y=
-  dependencies:
-    good-listener "^1.2.2"
-    select "^1.1.2"
-    tiny-emitter "^2.0.0"
-
 cliui@^3.0.3:
   version "3.2.0"
   resolved "http://r.npm.sankuai.com/cliui/download/cliui-3.2.0.tgz#120601537a916d29940f934da3b48d585a39213d"
@@ -3020,11 +3011,6 @@ delayed-stream@~1.0.0:
   version "1.0.0"
   resolved "http://r.npm.sankuai.com/delayed-stream/download/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
   integrity sha1-3zrhmayt+31ECqrgsp4icrJOxhk=
-
-delegate@^3.1.2:
-  version "3.2.0"
-  resolved "http://r.npm.sankuai.com/delegate/download/delegate-3.2.0.tgz#b66b71c3158522e8ab5744f720d8ca0c2af59166"
-  integrity sha1-tmtxwxWFIuirV0T3INjKDCr1kWY=
 
 depd@~1.1.2:
   version "1.1.2"
@@ -3926,13 +3912,6 @@ globby@^9.2.0:
     ignore "^4.0.3"
     pify "^4.0.1"
     slash "^2.0.0"
-
-good-listener@^1.2.2:
-  version "1.2.2"
-  resolved "http://r.npm.sankuai.com/good-listener/download/good-listener-1.2.2.tgz#d53b30cdf9313dffb7dc9a0d477096aa6d145c50"
-  integrity sha1-1TswzfkxPf+33JoNR3CWqm0UXFA=
-  dependencies:
-    delegate "^3.1.2"
 
 got@^9.6.0:
   version "9.6.0"
@@ -6373,11 +6352,9 @@ pretty-time@^1.1.0:
   integrity sha1-/7dCmvq7hTXDRqNOQYc63z103Q4=
 
 prismjs@^1.13.0:
-  version "1.20.0"
-  resolved "http://r.npm.sankuai.com/prismjs/download/prismjs-1.20.0.tgz#9b685fc480a3514ee7198eac6a3bf5024319ff03"
-  integrity sha1-m2hfxICjUU7nGY6sajv1AkMZ/wM=
-  optionalDependencies:
-    clipboard "^2.0.0"
+  version "1.27.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.27.0.tgz#bb6ee3138a0b438a3653dd4d6ce0cc6510a45057"
+  integrity sha512-t13BGPUlFDR7wRB5kQDG4jjl7XeuH6jbJGt11JHPL96qwsEHNX2+68tFXqc1/k+/jALsbSWJKUOT/hcYAZ5LkA==
 
 private@^0.1.8:
   version "0.1.8"
@@ -6920,11 +6897,6 @@ select-hose@^2.0.0:
   version "2.0.0"
   resolved "http://r.npm.sankuai.com/select-hose/download/select-hose-2.0.0.tgz#625d8658f865af43ec962bfc376a37359a4994ca"
   integrity sha1-Yl2GWPhlr0Psliv8N2o3NZpJlMo=
-
-select@^1.1.2:
-  version "1.1.2"
-  resolved "http://r.npm.sankuai.com/select/download/select-1.1.2.tgz#0e7350acdec80b1108528786ec1d4418d11b396d"
-  integrity sha1-DnNQrN7ICxEIUoeG7B1EGNEbOW0=
 
 selfsigned@^1.10.7:
   version "1.10.7"
@@ -7624,11 +7596,6 @@ timsort@^0.3.0:
   resolved "http://r.npm.sankuai.com/timsort/download/timsort-0.3.0.tgz#405411a8e7e6339fe64db9a234de11dc31e02bd4"
   integrity sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q=
 
-tiny-emitter@^2.0.0:
-  version "2.1.0"
-  resolved "http://r.npm.sankuai.com/tiny-emitter/download/tiny-emitter-2.1.0.tgz#1d1a56edfc51c43e863cbb5382a72330e3555423"
-  integrity sha1-HRpW7fxRxD6GPLtTgqcjMONVVCM=
-
 to-arraybuffer@^1.0.0:
   version "1.0.1"
   resolved "http://r.npm.sankuai.com/to-arraybuffer/download/to-arraybuffer-1.0.1.tgz#7d229b1fcc637e466ca081180836a7aabff83f43"
@@ -8198,15 +8165,15 @@ vuepress-plugin-smooth-scroll@^0.0.3:
   dependencies:
     smoothscroll-polyfill "^0.4.3"
 
-vuepress-theme-reco@1.4.6:
-  version "1.4.6"
-  resolved "http://r.npm.sankuai.com/vuepress-theme-reco/download/vuepress-theme-reco-1.4.6.tgz#4753d670cf8ef01660369688725c5e71564518d3"
-  integrity sha1-R1PWcM+O8BZgNpaIclxecVZFGNM=
+vuepress-theme-reco@1.4.7:
+  version "1.4.7"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-reco/-/vuepress-theme-reco-1.4.7.tgz#573813591f7861f33d5501645ba844a3c58102e5"
+  integrity sha512-e/v0vSEHTled/AmTATtbydxqU9/XnS8hNzvJtoOoXtqndVjunPwl+dFoUzvk+TFxM8CXPt6Nx3DjM8Ji8vErGw==
   dependencies:
     "@vuepress-reco/vuepress-plugin-back-to-top" "^1.4.0"
     "@vuepress-reco/vuepress-plugin-comments" "^1.4.6"
     "@vuepress-reco/vuepress-plugin-loading-page" "^1.4.0"
-    "@vuepress-reco/vuepress-plugin-pagation" "^1.4.6"
+    "@vuepress-reco/vuepress-plugin-pagation" "^1.4.7"
     "@vuepress/plugin-blog" "1.9.2"
     "@vuepress/plugin-medium-zoom" "1.5.0"
     docsearch.js "2.6.3"
